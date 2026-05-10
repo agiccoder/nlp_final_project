@@ -1,0 +1,30 @@
+{
+  "RANDOM_SEED": 42,
+  "LOCAL_DATA_CANDIDATES": [
+    "consumer_complaints_small.csv",
+    "../consumer_complaints_small.csv",
+    "data/consumer_complaints_small.csv"
+  ],
+  "REMOTE_DATA_URL": "https://raw.githubusercontent.com/agiccoder/nlp_mini_project/main/consumer_complaints_small.csv",
+  "MAX_EXAMPLES_PER_CLASS": 1200,
+  "TEST_SIZE": 0.15,
+  "VAL_SIZE": 0.15,
+  "TFIDF_MAX_FEATURES": 80000,
+  "TFIDF_MIN_DF": 2,
+  "TFIDF_NGRAM_RANGE": [
+    1,
+    2
+  ],
+  "TRANSFORMER_NAME": "distilbert-base-uncased",
+  "MAX_LENGTH": 256,
+  "EMBED_BATCH_SIZE": 32,
+  "RUN_FINE_TUNING": true,
+  "FT_BATCH_SIZE": 16,
+  "FT_EPOCHS": 3,
+  "FT_LR": 2e-05,
+  "FT_WEIGHT_DECAY": 0.01,
+  "FT_GRAD_CLIP": 1.0,
+  "TOP_TFIDF_FEATURES_PER_CLASS_TO_MASK": 20,
+  "RETRIEVAL_K": 5,
+  "ARTIFACT_DIR": "artifacts_final"
+}

@@ -1,0 +1,126 @@
+class,rank,feature,score
+Bank account or service,1,bank,0.03869128973637152
+Bank account or service,2,account,0.027889232541903293
+Bank account or service,3,overdraft,0.020133501015012288
+Bank account or service,4,checking,0.019969697842944764
+Bank account or service,5,funds,0.019792303157227475
+Bank account or service,6,money,0.019604936156428755
+Bank account or service,7,deposit,0.018775727899942918
+Bank account or service,8,check,0.01834474465087988
+Bank account or service,9,checking account,0.01678377103706136
+Bank account or service,10,branch,0.016230221003479577
+Bank account or service,11,fees,0.014787087305149983
+Bank account or service,12,00,0.012715536459730347
+Bank account or service,13,debit,0.01260549904737708
+Bank account or service,14,bank america,0.01211106007041482
+Bank account or service,15,america,0.011787666890086462
+Bank account or service,16,transactions,0.01092945307241369
+Bank account or service,17,deposited,0.010819663829148172
+Bank account or service,18,overdraft fees,0.010583535738824597
+Bank account or service,19,fargo,0.010481481395299416
+Bank account or service,20,debit card,0.010363650756783208
+Bank account or service,21,wells,0.010310569755364846
+Bank account or service,22,wells fargo,0.010240335006343672
+Bank account or service,23,fee,0.010127381605248828
+Bank account or service,24,charged,0.009503119127353094
+Bank account or service,25,atm,0.009457579669631832
+Credit card,1,card,0.04550942214852247
+Credit card,2,credit card,0.033960914251640606
+Credit card,3,credit,0.01959349883138464
+Credit card,4,balance,0.013645919865551517
+Credit card,5,late,0.012031681505736785
+Credit card,6,capital,0.01144434046701267
+Credit card,7,cards,0.010407298897397534
+Credit card,8,american express,0.01035341797156986
+Credit card,9,express,0.010143199186102009
+Credit card,10,charge,0.009613888558335436
+Credit card,11,payment,0.009184903109596779
+Credit card,12,charges,0.008885694343409807
+Credit card,13,american,0.008841518948852146
+Credit card,14,statement,0.008433644454343647
+Credit card,15,chase,0.008371331459097932
+Credit card,16,citi,0.008316729034515942
+Credit card,17,synchrony,0.007901854945949313
+Credit card,18,closed,0.007372059034882103
+Credit card,19,macy,0.007291244607077588
+Credit card,20,fee,0.00723469454023886
+Credit card,21,discover,0.00718341271201952
+Credit card,22,charged,0.007080961404113821
+Credit card,23,rewards,0.006965787073518787
+Credit card,24,00,0.006877652109957874
+Credit card,25,citibank,0.006826340493771776
+Credit reporting,1,report,0.04465304497939433
+Credit reporting,2,credit report,0.03476920621455935
+Credit reporting,3,credit,0.03144212025530077
+Credit reporting,4,equifax,0.029410470209549018
+Credit reporting,5,experian,0.02810834587019351
+Credit reporting,6,reporting,0.019550618846559863
+Credit reporting,7,transunion,0.018702508149946475
+Credit reporting,8,information,0.015069976755763985
+Credit reporting,9,xxxx,0.013436930967989869
+Credit reporting,10,xxxx xxxx,0.013325553631450535
+Credit reporting,11,removed,0.01290279212943199
+Credit reporting,12,dispute,0.012509113427418499
+Credit reporting,13,remove,0.01222385995865221
+Credit reporting,14,accounts,0.011162111748635625
+Credit reporting,15,inquiries,0.011007698943109514
+Credit reporting,16,score,0.01089260386687179
+Credit reporting,17,credit reporting,0.010327141632795094
+Credit reporting,18,report xxxx,0.010323308559862089
+Credit reporting,19,reports,0.010093754058725916
+Credit reporting,20,reported,0.009319076110416033
+Credit reporting,21,disputed,0.009237347924149077
+Credit reporting,22,deleted,0.008596933103478834
+Credit reporting,23,incorrect,0.00845106583825234
+Credit reporting,24,xxxx credit,0.008186465815540346
+Credit reporting,25,agencies,0.007770757365155056
+Debt collection,1,debt,0.052201104418505354
+Debt collection,2,collection,0.026926302112434693
+Debt collection,3,collect,0.015849408600987717
+Debt collection,4,calling,0.015790341798823437
+Debt collection,5,calls,0.015464961560274854
+Debt collection,6,owe,0.014310281914149197
+Debt collection,7,company,0.013924112860510722
+Debt collection,8,agency,0.012867326389068857
+Debt collection,9,phone,0.01221110001021063
+Debt collection,10,collection agency,0.0120160279494463
+Debt collection,11,recovery,0.01019843384740486
+Debt collection,12,number,0.00960048083551086
+Debt collection,13,collector,0.009396780511153897
+Debt collection,14,collect debt,0.009383928430707875
+Debt collection,15,debt collection,0.008810788699269625
+Debt collection,16,validation,0.008183150452009298
+Debt collection,17,medical,0.007390731639293614
+Debt collection,18,debt collector,0.007180670848463213
+Debt collection,19,collections,0.006997780586498576
+Debt collection,20,cell,0.006997226300193167
+Debt collection,21,stop,0.006972118496802687
+Debt collection,22,debt xxxx,0.006533803840920935
+Debt collection,23,owed,0.0064123398262121
+Debt collection,24,trying collect,0.006298518399353863
+Debt collection,25,work,0.0061283370682579845
+Mortgage,1,mortgage,0.05084605529543884
+Mortgage,2,loan,0.041068593279627606
+Mortgage,3,modification,0.025287321514111394
+Mortgage,4,home,0.02359551229093289
+Mortgage,5,property,0.017086596687343532
+Mortgage,6,foreclosure,0.01681538802194684
+Mortgage,7,payments,0.015332070782109082
+Mortgage,8,escrow,0.01527737752138102
+Mortgage,9,sale,0.01476416333068961
+Mortgage,10,payment,0.014065653018291468
+Mortgage,11,ocwen,0.013925640234170384
+Mortgage,12,loan modification,0.01309429566017673
+Mortgage,13,house,0.011838328490036801
+Mortgage,14,lender,0.011163342344109518
+Mortgage,15,servicing,0.011152579134796232
+Mortgage,16,nationstar,0.010893682052567251
+Mortgage,17,insurance,0.010572364766535714
+Mortgage,18,documents,0.009958862862646085
+Mortgage,19,servicer,0.009187089584391678
+Mortgage,20,rate,0.008488007649845688
+Mortgage,21,process,0.008395547624117502
+Mortgage,22,short sale,0.00833851464418524
+Mortgage,23,mortgage company,0.008188312425635154
+Mortgage,24,short,0.008116350958990479
+Mortgage,25,xx,0.007825864281893219
